@@ -36,4 +36,4 @@ Power BI version
 Trend analysis
 ## Dashboard Preview
 
-![Student Performance Dashboard](dashboard.jpeg)
+
